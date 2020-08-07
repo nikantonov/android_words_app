@@ -6,14 +6,9 @@ Framework:	[Android]
 
 API-Version:	[Android 15(App), Android 26(Pixel2 Emulator)]
 
-Geräte, auf dem(denen) getestet wurde:
+Test emulator:
 [Pixel2]
 
-Externe Libraries und Frameworks:
-[keine spezielle, nur verschiedene Java-Objekte]
-
-Dauer der Entwicklung:
+Development time:
 [ca 8-10 Stunden]
 
-Weitere Anmerkungen:
-[...]

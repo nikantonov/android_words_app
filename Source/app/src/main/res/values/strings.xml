@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyA3App</string>
+    <string name="title_activity_result_rhyme">activity_result_rhyme</string>
+    <string name="title_activity_rhyme">Rhyme</string>
+    <string name="title_activity_saved_results">SavedResults</string>
+    <string name="title_activity_sound_like">SoundLike</string>
+    <string name="title_activity_spelled_similarly">SpelledSimilarly</string>
+    <string name="title_activity_last_save">LastSave</string>
+</resources>
